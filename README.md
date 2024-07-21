@@ -4,6 +4,7 @@
  If you have any questions, please contact me：1550438388@qq.com
  
  Required：
+ 
     * Openjdk 17(Change the properties in file：master/gradle.properties)
 
     * Gradle 8+
